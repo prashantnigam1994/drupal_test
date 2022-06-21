@@ -1,9 +1,0 @@
-type: theme
-base theme: stable
-name: 'Test theme with a too long name'
-# version: VERSION
-
-# Information added by Drupal.org packaging script on 2022-06-10
-version: '9.3.16'
-project: 'drupal'
-datestamp: 1654888820

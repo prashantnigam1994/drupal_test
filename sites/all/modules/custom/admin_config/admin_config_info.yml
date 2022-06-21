@@ -1,6 +1,0 @@
-name: Show Timezone  
-type: module  
-description: Display timezone
-core: 8.x  
-core_version_requirement: '^8'
-package: custom 
