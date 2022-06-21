@@ -1,0 +1,4 @@
+services:
+  test_function.custom_services:
+    class: Drupal\test_function\CustomService
+    arguments: ['@current_user']

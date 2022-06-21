@@ -1,0 +1,7 @@
+admin_config:
+ path: '/admin/timezone'
+ defaults:
+   _title: 'Time Zone Settings'
+   _form: '\Drupal\admin_config\Form\ConfigForm'
+ requirements:
+   _permission: 'access content'
